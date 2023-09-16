@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on cloud native solutions.
 - 📫 You can reach me at shahrooz_y[.@.]yahoo.com.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 ![Codewars](https://github.r2v.ch/codewars?user=Shahrooz81&stroke=blue)
 
 <!---
