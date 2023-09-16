@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @shahrooz1981
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shahrooz Yousefi (@shahrooz1981)
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning and researching new cloud native architectures and designs.
+- 💞️ I’m looking to collaborate on cloud native solutions.
+- 📫 You can reach me at shahrooz_y[.@.]yahoo.com.
+
+![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
 
 <!---
 shahrooz1981/shahrooz1981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
