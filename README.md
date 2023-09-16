@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cloud native solutions.
 - 📫 You can reach me at shahrooz_y[.@.]yahoo.com.
 
-![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=Shahrooz81&stroke=blue)
 
 <!---
 shahrooz1981/shahrooz1981 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
